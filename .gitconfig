@@ -1,0 +1,9 @@
+[user]
+    name = nednella
+    email = 19449811+nednella@users.noreply.github.com
+    
+[init]
+    defaultBranch = main
+
+[core]
+    editor = code --new-window --wait # default to Visual Studio Code
