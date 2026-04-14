@@ -4,9 +4,6 @@
 # Terminal name
 DISABLE_AUTO_TITLE="true"
 
-# Terminal prompt
-export PS1="\W \$ "
-
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
